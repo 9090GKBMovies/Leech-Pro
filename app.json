@@ -7,7 +7,7 @@
   ],
   "repository": "https://github.com/9090GKBMovies/Leech-Pro",
   "success_url": "https://t.me/Greymatter_bots",
-  "website": "https://github.com/GreyMatter658/Leech-Pro",
+  "website": "https://github.com/9090GKBMovies/Leech-Pro",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
